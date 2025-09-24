@@ -94,7 +94,8 @@ The locality is known for its vibrant community life with numerous educational i
 ```
 # OUTPUT
 
-C:\Users\Dhivakar\OneDrive\Desktop\exp4\project\Image_map\Screenshot 2025-09-24 112958.png
+<img width="1698" height="928" alt="Screenshot 2025-09-24 112958" src="https://github.com/user-attachments/assets/3a4cc1e4-9a37-4c50-9aaf-4ea2537338ae" />
+
 
 
 # RESULT
