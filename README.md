@@ -93,7 +93,9 @@ The locality is known for its vibrant community life with numerous educational i
     <html>
 ```
 # OUTPUT
-[alt text](<Screenshot 2025-09-24 112958.png>)
+
+C:\Users\Dhivakar\OneDrive\Desktop\exp4\project\Image_map\Screenshot 2025-09-24 112958.png
+
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
