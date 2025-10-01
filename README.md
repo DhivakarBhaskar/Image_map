@@ -1,4 +1,4 @@
-<img width="1911" height="585" alt="Screenshot 2025-10-01 101628" src="https://github.com/user-attachments/assets/c1cb43b5-9c12-42e9-a118-f512a54efa70" /># Ex04 Places Around Me
+# Ex04 Places Around Me
 # Date:24-09-2025
 # AIM
 To develop a website to display details about the places around my house.
