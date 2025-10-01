@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+<img width="1911" height="585" alt="Screenshot 2025-10-01 101628" src="https://github.com/user-attachments/assets/c1cb43b5-9c12-42e9-a118-f512a54efa70" /># Ex04 Places Around Me
 # Date:24-09-2025
 # AIM
 To develop a website to display details about the places around my house.
@@ -53,17 +53,45 @@ map.html
         </body>
     </html>
     heaven.html
-    <!DOCTYPE html>
+  
+  <!DOCTYPE html>
 <head>
+    <style>
+        body{
+                
+             background-image: linear-gradient(120deg, #3e47fc, #e04bae);
+            }
+    </style>
 
 </head>
 <body>
+  <center>  <h1>Heaven</h1></center>
     <h3>Ancient sites include the National Fossil Wood Park at Sathanur, where fossilized tree trunks over 18 meters in length from the Cretaceous period are preserved.
 Ranjankudi Fort, associated with 18th-century battles, is a notable historical attraction.Temples such as Arulmigu Ekambareshwarar, Thandayudhapani Temple, and Mathura Kaliamman Temple at Siruvachur attract many pilgrims and tourists.
 The district has mineral resources like limestone, fire clay, gypsum, black granite, and more, supporting minor industries and building material production</h3>
 </body>
+</html>
+
     raja.html
+    
     <html>
+    <head>
+        <title>Raja Cinemas</title>
+        <style>
+            body{
+                
+             background-image: linear-gradient(120deg, #3e47fc, #e04bae);
+            }
+            h3{
+                color: white;
+            }
+            h1{
+                color:orange;
+            }
+            
+        </style>
+        </head>
+        <body><center><h1>Raja Cinemas</h1></center>
     <h3>Raja Cinemas is a well-known movie theater located in Perambalur, Tamil Nadu, serving as a key spot for local entertainment and film releases. It is situated at Elambalur Road, near Sri Ramakrishna Matriculation Higher Secondary School in the Sungu Pettai area, making it easily accessible for visitors from different parts of the town.
 
 The theater is popular for screening the latest Tamil movies, often running multiple showtimes throughout the day to cater to diverse audiences. Raja Cinemas offers standard amenities and is recognized for its convenient location on major connecting roads such as Attur–Perambalur Road and Thuraiyur–Perambalur Road, ensuring that residents from neighboring areas can also enjoy cinema experiences without having to travel far.
@@ -73,24 +101,78 @@ For many in Perambalur, Raja Cinemas represents more than just a place to watch 
 </h3>
     </html>
     lake.html
-    <html>
-    <body>
+
+ <html>
+    <head>
+        <title>Arasalur Lake</title>
+        <style>
+            body{
+                
+             background-image: linear-gradient(120deg, #3e47fc, #e04bae);
+            }
+            h3{
+                color: white;
+            }
+            h1{
+                color:pink;
+            }
+            
+        </style>
+    <body><center><h1>Arasalur Lake</h1></center>
         <h3>Arasalur Lake is a significant water body located in the Melapuliyur area of Perambalur district, Tamil Nadu. Positioned approximately 16 kilometers from Perambalur town, the lake plays an important role in supporting the local agricultural activities and the surrounding rural communities. The geographic coordinates place it in a zone conducive to collecting seasonal rains, thus serving as an essential reservoir for irrigation and groundwater recharge.
 
 The lake spans a considerable area and is maintained by local authorities to ensure it remains a viable water source for farmers and villagers nearby. Apart from its utilitarian role in irrigation, Arasalur Lake is also known as a natural habitat supporting local wildlife and bird species that frequent the water body during various seasons. It has become part of the village lifestyle, often serving as a hub for social events and traditional activities linked to water resource management.</h3>
     </body>
 </html>
+
     ara.html
-<body>
+   
+   <html>
+    <head>
+        <title>Aranarai</title>
+        <style>
+            body{
+                
+             background-image: linear-gradient(120deg, #3e47fc, #e04bae);
+            }
+            h3{
+                color: white;
+            }
+            h1{
+                color: yellow;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <center><h1>Aranarai</h1></center>
         <h3>Agriculture is the primary occupation, with many residents engaged in farming and related activities supported by the fertile lands of Perambalur district. The village lifestyle is a blend of traditional rural living with gradual modernization as infrastructure and services improve. Local governance through the gram panchayat plays a crucial role in community welfare and development effortsAranarai forms part of a vibrant local community with nearby villages like Alangali, Keelakkarai, and Elambalur contributing to the region's social and economic activities. The village governance through the gram panchayat helps address local development needs. The presence of schools, markets, and connectivity options supports the livelihood of residents, who primarily engage in agriculture and related activities in this agrarian district. The village stands as a typical example of rural life in central Tamil Nadu, blending tradition with gradual modernization</h3>
     </body>
 </html>
+
     pettai.html
+    
     <html>
-    <body><h3>Sungu Pettai is a locality situated in Perambalur city within the Perambalur district of Tamil Nadu. Positioned at an elevation of approximately 70 meters above sea level, it is well-connected through roads such as the Perambalur-Elambalur Road and lies close to significant towns like Thuraiyur and Tittakudi. The area falls under the Perambalur assembly and parliamentary constituencies, with Tamil as the primary language spoken by the residents.
+    <head>
+        <title>Sungu Pettai</title>
+        <style>
+            body{
+                
+             background-image: linear-gradient(120deg, #3e47fc, #e04bae);
+            }
+            h3{
+                color: white;
+            }
+            h1{
+                color:gold;
+            }
+            
+        </style>
+    <body><center><h1>Sungu Pettai</h1></center>
+        <h3>Sungu Pettai is a locality situated in Perambalur city within the Perambalur district of Tamil Nadu. Positioned at an elevation of approximately 70 meters above sea level, it is well-connected through roads such as the Perambalur-Elambalur Road and lies close to significant towns like Thuraiyur and Tittakudi. The area falls under the Perambalur assembly and parliamentary constituencies, with Tamil as the primary language spoken by the residents.
 
 The locality is known for its vibrant community life with numerous educational institutions nearby, including the Roever School of Excellence and Kendriya Vidyalaya, which serve as important centers for learning in the region. Additionally, Sungu Pettai features a variety of healthcare facilities, computer shops, supermarkets, and parks like Teppakulam Park and Children’s Park, contributing to a balanced lifestyle for the residents. The area experiences a moderate climate with temperatures typically ranging from the mid-20s to mid-30s Celsius throughout the year</h3></body>
-    <html>
+</html>
 
 views.py
 from django.shortcuts import render
@@ -113,18 +195,25 @@ from . import views
 
 urlpatterns = [
     path('', views.map, name='map'),
-    path('pettai/', views.location1, name='pettai'),
-    path('ara/', views.location2, name='ara'),
-    path('lake/', views.location3, name='lake'),
-    path('raja/', views.location4, name='raja'),
-    path('heaven/', views.location5, name='heaven'),
+    path('pettai/', views.pettai, name='pettai'),
+    path('ara/', views.ara, name='ara'),
+    path('lake/', views.lake, name='lake'),
+    path('raja/', views.raja, name='raja'),
+    path('heaven/', views.heaven, name='heaven'),
 
 ]
+
 ```
 # OUTPUT
 
 <img width="1698" height="928" alt="Screenshot 2025-09-24 112958" src="https://github.com/user-attachments/assets/3a4cc1e4-9a37-4c50-9aaf-4ea2537338ae" />
 
+<img width="1914" height="829" alt="Screenshot 2025-10-01 103855" src="https://github.com/user-attachments/assets/8829dd70-b886-424c-85f7-9f6d42d41045" />
+<img width="1894" height="705" alt="Screenshot 2025-10-01 101711" src="https://github.com/user-attachments/assets/b4096cee-2284-44d1-b8bc-eeb81cfc13a4" />
+<img width="1902" height="709" alt="Screenshot 2025-10-01 101647" src="https://github.com/user-attachments/assets/74f00ca0-d385-4c84-a082-2f7c7e7c897e" />
+
+<img width="1911" height="585" alt="Screenshot 2025-10-01 101628" src="https://github.com/user-attachments/assets/65534382-7058-4daf-ae66-27fe43f2ae70" />
+<img width="1904" height="769" alt="Screenshot 2025-10-01 101604" src="https://github.com/user-attachments/assets/8d23b55a-518c-496f-960b-59b0956caf09" />
 
 
 # RESULT
