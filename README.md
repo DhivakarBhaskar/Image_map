@@ -91,6 +91,35 @@ The lake spans a considerable area and is maintained by local authorities to ens
 
 The locality is known for its vibrant community life with numerous educational institutions nearby, including the Roever School of Excellence and Kendriya Vidyalaya, which serve as important centers for learning in the region. Additionally, Sungu Pettai features a variety of healthcare facilities, computer shops, supermarkets, and parks like Teppakulam Park and Children’s Park, contributing to a balanced lifestyle for the residents. The area experiences a moderate climate with temperatures typically ranging from the mid-20s to mid-30s Celsius throughout the year</h3></body>
     <html>
+
+views.py
+from django.shortcuts import render
+def map(request):
+    return render(request, 'map.html')
+def pettai(request):
+    return render(request, 'pettai.html')
+def ara(request):
+    return render(request, 'ara.html')
+def lake(request):
+    return render(request, 'lake.html')
+def raja(request):
+    return render(request, 'raja.html')
+def heaven(request):
+    return render(request, 'heaven.html')
+
+urls.py
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.map, name='map'),
+    path('pettai/', views.location1, name='pettai'),
+    path('ara/', views.location2, name='ara'),
+    path('lake/', views.location3, name='lake'),
+    path('raja/', views.location4, name='raja'),
+    path('heaven/', views.location5, name='heaven'),
+
+]
 ```
 # OUTPUT
 
