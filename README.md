@@ -203,6 +203,7 @@ urlpatterns = [
 
 ]
 
+<<<<<<< HEAD
  ```
 
 # OUTPUT!
@@ -212,6 +213,20 @@ urlpatterns = [
 ![alt text](<Screenshot 2025-10-01 101647.png>)
 ![alt text](<Screenshot 2025-10-01 101711.png>)
 ![alt text](<Screenshot 2025-10-01 103855.png>)
+=======
+```
+# OUTPUT
+
+<img width="1698" height="928" alt="Screenshot 2025-09-24 112958" src="https://github.com/user-attachments/assets/3a4cc1e4-9a37-4c50-9aaf-4ea2537338ae" />
+
+<img width="1914" height="829" alt="Screenshot 2025-10-01 103855" src="https://github.com/user-attachments/assets/8829dd70-b886-424c-85f7-9f6d42d41045" />
+<img width="1894" height="705" alt="Screenshot 2025-10-01 101711" src="https://github.com/user-attachments/assets/b4096cee-2284-44d1-b8bc-eeb81cfc13a4" />
+<img width="1902" height="709" alt="Screenshot 2025-10-01 101647" src="https://github.com/user-attachments/assets/74f00ca0-d385-4c84-a082-2f7c7e7c897e" />
+
+<img width="1911" height="585" alt="Screenshot 2025-10-01 101628" src="https://github.com/user-attachments/assets/65534382-7058-4daf-ae66-27fe43f2ae70" />
+<img width="1904" height="769" alt="Screenshot 2025-10-01 101604" src="https://github.com/user-attachments/assets/8d23b55a-518c-496f-960b-59b0956caf09" />
+
+>>>>>>> 897724bf2b51bd5c8adc4bb768f6cd58474368df
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
